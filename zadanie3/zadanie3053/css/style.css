@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 10px;
+}
+h1,
+h2 {
+    text-transform: uppercase;
+}
+
+figure {
+    height: 100vh;
+    background-image: url(../img/man-1.jpg);
+    background-size: cover;
+    background-position: left;
+    position: relative;
+    color: white;
+
+
+
+}
+
+#main-header .header-caption {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    font-family: 'Verdana', sans-serif;
+   display:

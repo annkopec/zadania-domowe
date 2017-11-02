@@ -1,0 +1,26 @@
+
+.box {
+    max-width: 100%;
+    height: 800px;
+    background-color: antiquewhite;
+    background-image: url(../img/man-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    display: block;
+    margin: auto;
+    
+
+}
+
+.main-text {
+    position: absolute;
+    top: 820px;
+    left: 350px;
+    text-align: center;
+    padding: 10px 20px;
+    font-family: "Verdana", sans-serif;
+
+
+
+}

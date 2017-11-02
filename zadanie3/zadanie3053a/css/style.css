@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding-bottom: 50px;
+}
+
+.box {
+    box-sizing: border-box;
+    height: 600px;
+    width: 100%;
+    background-color: antiquewhite;
+    background-image: url(../img/man-2.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    z-index: 10;
+
+}
+
+.main-text {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    text-align: left;
+    transform: translate(-50%, -50%);
+    font-family: 'Verdana', sans-serif;
+    color: #fff;
+    z-index: 11px;
+    font-size: 12px;
+}

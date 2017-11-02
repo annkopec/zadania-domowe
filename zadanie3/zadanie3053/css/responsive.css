@@ -1,0 +1,11 @@
+
+@media(min-width:992px)}
+figure #main-header .header-caption{
+    width: 50%;
+}
+
+    @media (max-width:1170px) {
+figure #main-header.header-caption{
+    width: 100%;
+        }
+    
